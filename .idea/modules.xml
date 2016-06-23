@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JeffreyApplication.iml" filepath="$PROJECT_DIR$/JeffreyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ada-teaching.iml" filepath="$PROJECT_DIR$/Ada-teaching.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
